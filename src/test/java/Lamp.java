@@ -5,6 +5,7 @@ public class Lamp {
    private double voltage;
    private String usage;
 
+
    public int getBulbCount() {
       return bulbCount;
    }

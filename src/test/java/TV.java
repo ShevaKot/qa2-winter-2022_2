@@ -5,6 +5,7 @@ public class TV {
    private double price;
    private String brand;
 
+
    public double getDiagonal() {
       return diagonal;
    }

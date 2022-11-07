@@ -5,6 +5,7 @@ public class Charger {
    private double wireLength;
    private String forModels;
 
+
    public String getBrand() {
       return brand;
    }

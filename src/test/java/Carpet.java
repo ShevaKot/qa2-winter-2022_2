@@ -5,6 +5,7 @@ public class Carpet {
    private String picture;
    private String material;
 
+
    public double getHeight() {
       return height;
    }

@@ -5,6 +5,7 @@ public class Table {
     private String usage;
     private boolean shelf;
 
+
     public double getHeight() {
         return height;
     }

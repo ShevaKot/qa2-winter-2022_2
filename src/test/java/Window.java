@@ -5,6 +5,7 @@ public class Window {
     private String shape;
     private double transparency;
 
+
     public double getHeight() {
         return height;
     }

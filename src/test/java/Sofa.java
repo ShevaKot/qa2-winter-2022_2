@@ -5,6 +5,7 @@ public class Sofa {
     private String material;
     private boolean folding;
 
+
     public double getHeight() {
         return height;
     }

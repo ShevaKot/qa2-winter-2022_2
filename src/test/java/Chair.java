@@ -5,6 +5,7 @@ public class Chair {
     private int legsCount;
     private String seatShape;
 
+
     public double getHeight() {
         return height;
     }

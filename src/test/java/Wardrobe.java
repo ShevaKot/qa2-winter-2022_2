@@ -7,6 +7,7 @@ public class Wardrobe {
    private int doorCount;
    private int shelvesCount;
 
+
    public double getHeight() {
       return height;
    }

@@ -104,6 +104,7 @@ public class ObjectsHomeWork {
     }
 
     @Test
+
     public void workingWithTable() {
         Table infoTable = new Table();
 

@@ -8,6 +8,7 @@ public class Bin {
     private String color;
 
 
+
     public double getVolume() {
         return volume;
     }
